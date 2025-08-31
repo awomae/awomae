@@ -1,16 +1,15 @@
 # Hello, I'm Emmanuel Awoma
-<a href="https://linkedin.com/in/awomaemmanuel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/awomaemmanuel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-My journey began in computer craftsmanship and gradually expanded into CCTV systems, security technologies, and solar energy solutions.
-Over time, I discovered a strong passion for cybersecurity, which led me to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-In this role, I monitor and respond to security incidents, gaining hands-on experience in threat detection and analysis. 
-I'm now transitioning into more specialized areas of cybersecurity, with a growing focus on web application security and digital forensics.
-aiming to deepen my expertise and contribute to building safer digital environments.
+My journey began in computer craftsmanship and gradually expanded into CCTV systems,security technologies,
+and solar energy solutions. Over time, I discovered a strong passion for cybersecurity, 
+which led me to join a Security Operations Center (SOC) as a Tier 1 Analyst. In this role,
+I monitor and respond to security incidents, gaining hands-on experience in threat detection and analysis. 
+I'm now transitioning into more specialized areas of cybersecurity, with a growing focus on web application security
+and digital forensics, aiming to deepen my expertise and contribute to building safer digital environments.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                              | Associated Project                          |
+| Skill                                             | Associated Project                          |
 |---------------------------------------------------|---------------------------------------------|
 | SIEM Implementation and Log Analysis              | [Detection Lab]                             |
 | Network Traffic Monitoring and Attack Detection   | [Detection Lab]                             |
